@@ -15,7 +15,7 @@ uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png
 custom_prompt = st.text_input("Enter a custom prompt for the image:", "Describe the image in detail.")
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAy3A0yGHY0uHIlGza6cMyPUV0Pp-nWO1c")  # Replace with your Gemini API key
+genai.configure(api_key="ENTER YOUR API HERE")  # Replace with your Gemini API key
 
 # Initialize the Gemini model
 # Use 'gemini-1.5-flash' or 'gemini-1.5-pro' as the model name
