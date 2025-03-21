@@ -1,6 +1,7 @@
 # DeepVision
 
 Overview
+
 DeepVision is an advanced image analysis tool that leverages Generative AI and Computer Vision to extract detailed information from images. Whether you're analyzing objects, colors, or text within an image, DeepVision provides accurate and insightful results. Built with Python and Streamlit, this project integrates state-of-the-art AI models like Gemini, CLIP, or Stable Diffusion to deliver powerful image analysis capabilities.
 
 Features
